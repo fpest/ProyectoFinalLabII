@@ -1,0 +1,50 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+th {
+  background-color: cadetblue;
+  color: whitesmoke;
+}
+
+.boton {
+  background-color: cadetblue;
+  width: 150px;
+  height: 40px;
+  margin: 10px;
+}
+
+.botonLO {
+  background-color: rgb(160, 123, 95);
+  width: 150px;
+  height: 40px;
+  margin: 10px;
+}
+
+.divtodo {
+  border: 2px solid black;
+  padding: 15px;
+  width: 300px;
+  background-color: aliceblue;
+
+}
+
+h1 {
+
+  border-radius: 5%;
+  padding : 5px;
+  border: 3px solid cornflowerblue;
+  width: 280px;
+  height: 70px;
+  background-color: #00B7FF;
+  color:azure;
+  text-align: center;
+
+
+
+}
